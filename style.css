@@ -1,0 +1,14 @@
+/*начало отмена скрола*/
+.otmenascrol{
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+body{
+    position: relative;
+}
+/*конец отмена скрола*/
